@@ -59,3 +59,4 @@
 - Net
 - Markers
 - Training bibs
+All right, given some feedback on this practice. Next time I would change this drill to that drill and Josie hit the ball really well left right blah blah blah. Alex did a good job of hammering 1 million down balls.
