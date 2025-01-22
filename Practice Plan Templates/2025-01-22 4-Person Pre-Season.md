@@ -41,3 +41,5 @@ TYPE: [Pre-Season] - High intensity with technical focus
 2. Milo's Car Wash (15 min)
    - Track wash point conversions
    - Emphasize spread offense
+
+This practice sucked
