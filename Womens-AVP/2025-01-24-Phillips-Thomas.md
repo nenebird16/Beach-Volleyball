@@ -1,4 +1,5 @@
 # AVP Practice Plan - Jenna & Morgan
+
 Date: January 24, 2025
 
 ## Recent Focus Themes
@@ -6,8 +7,9 @@ Date: January 24, 2025
 - Morgan (Jan 15): Setting load mechanics, vision for attacking 1s/10s
 
 ## Warmup (25 min)
-🎯 Cone Zone Targeting
+🎯 Cone Zone Targeting from Box 
 - Seam/cut/line cones
+- 3 rounds each, integrate blocker / blocker pull
 - Progress: static → approach → game-tempo
 
 ## Technical (85 min)
