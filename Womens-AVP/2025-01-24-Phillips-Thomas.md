@@ -16,9 +16,10 @@ Date: January 24, 2025
 
 ### 🔄 Pull the Strings Progression Series
 
-Round 1: Static Block (25 min)
-- Pre-called shots
-- Score: ____ /20 attempts
+Round 1: No Block, Hitting zones only  (25 min)
+- 2 pts for zone , 0 pts otherwise 
+- Jenna Score: 10 /20 (10 attempts)
+- Morgan Score: 8/20 (10 attempts)
 
 Round 2: Early Show Block (30 min)
 - Blocker shows pre-approach
