@@ -16,27 +16,28 @@ Date: January 24, 2025
 
 ### 🔄 Pull the Strings Progression Series
 
-Round 1: No Block, Hitting zones only  (25 min)
-- 2 pts for zone , 0 pts otherwise 
+Round 1: No Block, Hitting Cut / Seam zones only  (25 min)
+- 2 pts for zone , 0 pts otherwise , focus on accuracy only
 - Jenna Score: 10 /20 (10 attempts)
 - Morgan Score: 8/20 (10 attempts)
 
-Round 2: Early Show Block (30 min)
-- Blocker shows pre-approach
-- Score: ____ /20 attempts
+Round 2: No Block, Hitting Hard Line / Seam zones only
+- 2 pts for zone , 0 pts otherwise , focus on accuracy only
+- Jenna Score: 6 /20 (10 attempts)
+- Morgan Score: 6/20 (10 attempts)
 
-Round 3: Late Movement (30 min)
-- Blocker moves during approach
-- Score: ____ /20 attempts
+
+Round 3: Add Blocker , early Move (30 min)
+- Blocker moves into position early during approach
+- score: 2 zone, in 1, blocked , dug error =0
+- Jenna Score: 8 /20 (10 attempts)
+- Morgan Score: 8/20 (10 attempts)
+
 
 Focus Points:
 - Jenna: Start arm swing earlier on lower sets
 - Morgan: Load to release timing, clean tempo changes
 
-## Cool Down (10 min)
-Partner setting with varied tempos
-- 5s vs 50s, 4s vs 40s practice
-- Score: ____ /10 proper tempo changes
 
 Notes:
 __________________________
