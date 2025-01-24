@@ -13,11 +13,11 @@ Date: January 24, 2025
   2. Jump setting station
   3. Short/deep serve targeting
 
-## Technical (85 min)
+## Technical (60 min)
 
 ### 🔄 Pull the Strings Series - 5 Person Rotation
 
-Round 1: No Block, Zone Targeting (25 min)
+Round 1: No Block, Zone Targeting (20 min)
 Station 1: Box hitting (2 attackers)
 Station 2: Setting/Defense (2 players)
 Station 3: Recovery/Rest (1 player)
@@ -29,7 +29,7 @@ Name: ____ /20 pts
 Name: ____ /20 pts
 Name: ____ /20 pts
 
-Round 2: Early Block Show (30 min)
+Round 2: Early Block Show (20 min)
 - Add blocker showing pre-approach
 - Rotate blocker every 5 attempts
 Score per attacker (10 attempts):
@@ -39,7 +39,7 @@ Name: ____ /20 pts
 Name: ____ /20 pts
 Name: ____ /20 pts
 
-Round 3: Game Tempo (30 min)
+Round 3: Game Tempo (20 min)
 - Live setting
 - Late blocker movement
 - Defense added
@@ -49,6 +49,22 @@ Name: ____ /20 pts
 Name: ____ /20 pts
 Name: ____ /20 pts
 Name: ____ /20 pts
+
+## Games (25 min)
+🎮 2v2 Initiator Games
+- 4 players active, 1 initiator
+- Games to 5, win by 2
+- Rotation: Losing team out, initiator in
+
+Bonus Points:
+- +1 Kill off initiator's serve
+- +2 Kill using called shot
+- +1 Jump set kill
+
+Game Scores:
+Round 1: _____ vs _____
+Round 2: _____ vs _____
+Round 3: _____ vs _____
 
 ## Focus Points
 - Nathan: Jump set integration, left-handed options
