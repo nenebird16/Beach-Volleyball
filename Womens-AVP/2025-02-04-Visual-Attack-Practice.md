@@ -1,4 +1,5 @@
 # Practice Plan - February 4, 2025
+
 **Athletes**: Jenna, Morgan, Lydia
 **Focus**: Visual-dominant attacking with live blocking
 
@@ -14,14 +15,19 @@
    
 ## Build-up Phase (30 mins)
 1. 🔄 Stationary Block Vision Work
-   - Blocker shows position early
-   - Attacker works on reading and responding
+   - Blocker shows position early (coach w board)
+   - 2 Attackers works on reading and responding, 2 setter 
+   - 3 rounds each side (everybody sets)
    - Progression: Add delayed block movement
 
 2. 🏐 Moving Block Recognition
    - Add approach for attacker
    - Blocker starts neutral, moves to line
    - Focus on visual processing during approach
+
+
+- Super set with hop / crossovers (defense)
+- 
 
 ## Main Game (45-60 mins)
 **Setup**: 
@@ -35,6 +41,7 @@
 - Kill/tool: +1 for attacker
 - Soft block: +0.5 for blocker
 - Cover on tight set: Wash/replay
+- hit in but not in cones - wash 
 
 **Progressions**:
 1. Basic: Blocker shows early
@@ -45,3 +52,5 @@
 - Focus on testing A/B theory in game-like situations
 - Emphasis on visual processing during approach
 - Blockers maintaining discipline on line blocking
+
+Coach’s reflection:
