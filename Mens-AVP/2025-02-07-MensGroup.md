@@ -7,52 +7,52 @@ Date: February 7, 2025
 - John
 
 ## Practice Focus
-Visual attacking and decision making against blocker and defender
+Visual attacking and decision making against blocker and defender using paired options and constraints
 
-## Warmup
-Standard warmup progression
+## Scoring System 🎯
+- +2: Successfully executed hit within cone zone AND away from blocker/defender
+- +0: Ball in court but outside designated zones (wash)
+- -1: Hitting error OR hitting directly at blocker/defender
 
-## Main Session - Constraint Based Games 🎯
-
-### Format Used
+## Session Format
 - 6 rounds total
+- 5 attempts per attacker per round
 - Alternating between left and right side attacks
 - Testing against defender and blocker board separately
-- 10 attempts per player per round
 
-### Scoring Results
+### Scoring Results (Points/5 attempts)
 
 #### Defense Focus Rounds
 Round 1 (Left Side vs Defender)
-- John: 1/10
-- Ben: 0/10
-- Nate: 5/10
+- John: 1
+- Ben: 0
+- Nate: 5
 
 Round 2 (Right Side vs Defender)
-- John: 0/10
-- Ben: 5/10
-- Nate: 7/10
+- John: 0
+- Ben: 5
+- Nate: 7
 
 #### Blocker Focus Rounds
 Round 3 (Left Side vs Blocker Board)
-- John: 0/10
-- Ben: 1/10
-- Nate: 0/10
+- John: 0
+- Ben: 1
+- Nate: 0
 
 Round 4 (Right Side vs Blocker Board)
-- John: 2/10
-- Ben: 5/10
-- Nate: 6/10
+- John: 2
+- Ben: 5
+- Nate: 6
 
 Round 5 (Right Side vs Blocker Board)
-- Ben: 8/10
-- John: 3/10
-- Nate: 1/10
+- Ben: 8
+- John: 3
+- Nate: 1
 
 Round 6 (Left Side vs Blocker Board)
-- John: 8/10
-- Ben: 4/10
-- Nate: 1/10
+- John: 8
+- Ben: 4
+- Nate: 1
 
 ## Key Insights & Coaching Notes
 
@@ -84,6 +84,7 @@ Notable Patterns:
 - Higher success rates against defender vs blocker initially
 - Improved blocker board scores in later rounds (adaptation)
 - Side preference evident in individual scores
+- Maximum possible score per round: 10 points (5 attempts × 2 points)
 
 ## Next Practice Recommendations
 1. Implement validation round format
