@@ -19,66 +19,6 @@ Each player gets 5 opportunities per round. Points are awarded as follows:
 | 2025-02-07 | 5 | Right | Blocker | Seam | Hard Line | 3 | 8 | 1 |
 | 2025-02-07 | 6 | Left | Live Blocker | Seam | Either Sideline | 8 | 4 | 1 |
 
-## Performance Visualization
-
-```mermaid
-graph TD
-    subgraph Results["Player Performance by Round"]
-        style Results fill:#f5f5f5,stroke:#333,stroke-width:2px
-        
-        %% Create nodes for each score
-        J1[John R1: 1]
-        J2[John R2: 0]
-        J3[John R3: 0]
-        J4[John R4: 2]
-        J5[John R5: 3]
-        J6[John R6: 8]
-        
-        B1[Ben R1: 0]
-        B2[Ben R2: 5]
-        B3[Ben R3: 1]
-        B4[Ben R4: 5]
-        B5[Ben R5: 8]
-        B6[Ben R6: 4]
-        
-        N1[Nate R1: 5]
-        N2[Nate R2: 7]
-        N3[Nate R3: 0]
-        N4[Nate R4: 6]
-        N5[Nate R5: 1]
-        N6[Nate R6: 1]
-        
-        %% Connect nodes in sequence
-        J1 --> J2 --> J3 --> J4 --> J5 --> J6
-        B1 --> B2 --> B3 --> B4 --> B5 --> B6
-        N1 --> N2 --> N3 --> N4 --> N5 --> N6
-        
-        %% Style for John's line
-        style J1 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        style J2 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        style J3 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        style J4 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        style J5 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        style J6 fill:#8884d8,stroke:#8884d8,stroke-width:2px
-        
-        %% Style for Ben's line
-        style B1 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        style B2 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        style B3 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        style B4 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        style B5 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        style B6 fill:#82ca9d,stroke:#82ca9d,stroke-width:2px
-        
-        %% Style for Nate's line
-        style N1 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-        style N2 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-        style N3 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-        style N4 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-        style N5 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-        style N6 fill:#ffc658,stroke:#ffc658,stroke-width:2px
-    end
-```
-
 ### Training Parameters
 - Location 1: Always targeting Seam
 - Location 2: Varies between Sharp Cross, Hard Line, and Either Sideline
@@ -87,6 +27,33 @@ graph TD
 
 ### Notes for Future Updates
 - Add new practice sessions as new rows in the table
-- Update visualization to include new scores
 - Date format: YYYY-MM-DD
 - Scores range: -5 to 10 (minimum possible: 5 attempts × -1 point)
+
+### Future Visualization Plans
+Currently, the data is presented in tabular format only. For optimal visualization of player progress, the following graph types should be considered:
+
+1. **Line Charts** (Priority)
+   - Best for showing player score progression over rounds
+   - Can overlay multiple players for comparison
+   - Helps identify trends and patterns in performance
+
+2. **Heat Maps**
+   - Useful for showing performance patterns across different conditions
+   - Can highlight strengths/weaknesses in specific attack scenarios
+   - Good for identifying optimal attack combinations
+
+3. **Radar/Spider Charts**
+   - Good for comparing performance across different visual cues
+   - Can show balanced/unbalanced skill development
+   - Useful for comparing left vs right side efficiency
+
+4. **Bar Charts with Error Bars**
+   - Good for showing average performance with variability
+   - Can group by attack conditions or time periods
+   - Useful for statistical analysis
+
+Implementation options being considered:
+- Custom web dashboard using React/Recharts
+- Python with Matplotlib/Seaborn for automated graph generation
+- Integration with existing analytics platforms
