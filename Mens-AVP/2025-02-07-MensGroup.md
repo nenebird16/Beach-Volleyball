@@ -1,99 +1,96 @@
 # AVP Practice Plan - Men's Group
 Date: February 7, 2025
 
-## Recent Focus Progress
-- Nate: Successfully implementing off-net attacking (4-6 feet) against high-level block (Feb 6)
-- Group: Strong engagement with visual attacking progression (Feb 4-5)
-- Training Location: Sky Beach
+## Attendance
+- Nate
+- Ben
+- John
 
-## Warmup (20 min)
-🎯 Visual Progressive Warmup
-- Bowl-to-attack progression (3 rounds each)
-  1. No block, defender shows early
-  2. Foam block, defender shows late
-  3. Live block, defender in position
+## Practice Focus
+Visual attacking and decision making against blocker and defender
 
-Key Focus: Stay behind ball, maintain aggressive approach options
+## Warmup
+Standard warmup progression
 
-## Technical Build (40 min)
+## Main Session - Constraint Based Games 🎯
 
-### 🔄 Three Station Rotation
-1. Off-net Attack Station
-   - Sets 4-6 feet off net
-   - Pin blocker
-   - Must show line/angle options
-   - Focus: Aggressive approach mechanics
+### Format Used
+- 6 rounds total
+- Alternating between left and right side attacks
+- Testing against defender and blocker board separately
+- 10 attempts per player per round
 
-2. Tight Set Response Station
-   - High/sharp angle combinations
-   - Early block show
-   - Focus: Maintain aggressive approach
+### Scoring Results
 
-3. Defense Read Station
-   - Early defensive positioning show
-   - Must attack appropriate space
-   - Focus: Clean execution around block
+#### Defense Focus Rounds
+Round 1 (Left Side vs Defender)
+- John: 1/10
+- Ben: 0/10
+- Nate: 5/10
 
-*Players rotate after 3 successful attempts or 5 total attempts per station*
+Round 2 (Right Side vs Defender)
+- John: 0/10
+- Ben: 5/10
+- Nate: 7/10
 
-## Read & React Game 🎯 (60 min)
+#### Blocker Focus Rounds
+Round 3 (Left Side vs Blocker Board)
+- John: 0/10
+- Ben: 1/10
+- Nate: 0/10
 
-### Validation Round (20 min)
-Each player must complete 3/4 attempts showing:
-1. Off-net Attack with Pin Block
-   - Aggressive approach
-   - Line/angle execution
-   - Set 4-6 feet off net
+Round 4 (Right Side vs Blocker Board)
+- John: 2/10
+- Ben: 5/10
+- Nate: 6/10
 
-2. Tight Set Series
-   - High/sharp angle pairing
-   - Aggressive approach maintained
-   - Clean execution over/around block
+Round 5 (Right Side vs Blocker Board)
+- Ben: 8/10
+- John: 3/10
+- Nate: 1/10
 
-3. Defense-Read Series
-   - Blocker shows early
-   - Defender shows early
-   - Attack appropriate space
+Round 6 (Left Side vs Blocker Board)
+- John: 8/10
+- Ben: 4/10
+- Nate: 1/10
 
-### Game Phase (40 min)
-- Starting score: 10-11
-- Play to 21, win by 2
-- Server initiates with down ball/free ball
+## Key Insights & Coaching Notes
 
-Scoring System:
-- Base Kill = 1 point
-- Error = Point for other team
+### Vision Priority Discovery
+- Blocker vision proved more critical than defender vision
+- Key Concept: "Beat the blocker first, earn the right to beat the defender"
+- This hierarchy should inform approach and decision-making sequence
 
-Bonus Points (+2):
-- Kill showing all three key elements:
-  1. Aggressive approach
-  2. Strategy matching set location
-  3. Clean execution of late decision
-- High-risk shot execution after tight set
+### Equipment Notes
+- Used plywood as blocker board
+- Recommendation: Switch to boogie board material
+  - Firmer than foam block
+  - Softer than plywood
+  - Better for sustainability and safety
 
-Deductions (-1):
-(Still get base point if successful)
-- Not adjusting to set location
-- Missing open zone
-- Early commitment visible in approach
+### Future Format Recommendation - Validation Round Structure
+3-Ball Progression:
+1. Beat the blocker
+2. Beat the defender
+3. Live play - beat either
 
-## Coaching Cues
+Group Size Flexibility:
+- Minimum: 3 players
+- Maximum: 6 players
+- Roles can rotate through server, attacker, blocker/defender
 
-### Approach Assessment
-- Weight balanced behind ball
-- No early upper body lean
-- Strong penultimate step
+### Score Analysis
+Notable Patterns:
+- Higher success rates against defender vs blocker initially
+- Improved blocker board scores in later rounds (adaptation)
+- Side preference evident in individual scores
 
-### Set Location Strategy
-- Off Net (4-6ft): Full range of options
-- Tight: High/Sharp angle combinations
-- Middle: Seam/Cut options based on block
+## Next Practice Recommendations
+1. Implement validation round format
+2. Source better blocker board material
+3. Consider adding combined blocker+defender scenarios
+4. Track both successful attacks and attack selection quality
 
-### Decision Making
-- Block movement timing
-- Defender initial position
-- Space availability
-
-## Notes
+Notes:
 ___________________________
 ___________________________
