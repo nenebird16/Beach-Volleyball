@@ -1,17 +1,30 @@
 # Offensive Pairings Training Results
 
 ## Scoring System
-Each player gets 5 opportunities per round. Points are awarded as follows:
+Each player gets 5 opportunities per round. Points are awarded differently based on whether the round involves constraints or live defense:
+
+### Constraint Rounds (Static Defense/Blocker)
 - -1 point: Hitting error, block, or hit directly to defender (lack of execution)
+- 0 points: Attack in the court but outside designated zone
+- +2 points: Kill in designated zone
+- No +1 points available during constraint rounds
+- Maximum score per round: 10 points (5 attempts × 2 points)
+
+Example: If a player hits a kill but misses the designated zone, they receive 0 points as constraint rounds focus purely on zone accuracy.
+
+### Live Defense Rounds
+- -1 point: Hitting error, block, or hit directly to defender
 - 0 points: Attack in the court that was dug but required a defensive dive
 - +1 point: Kill (not in designated zone) or successful tool swing off block
 - +2 points: Kill in designated zone
 - Maximum score per round: 10 points (5 attempts × 2 points)
 
+Example: If a player successfully tools the block or finds a kill in a non-designated zone during live play, they earn +1 point to reward good tactical decision-making against dynamic defense.
+
 ## Training Data
 
 | Date | Round | Attack Side | Visual Cue | Location 1 | Location 2 | John | Ben | Nate |
-|------|-------|-------------|------------|------------|------------|------|-----|------|
+|------|-------|-------------|------------|------------|------------|------|-----|------| 
 | 2025-02-07 | 1 | Left | Defender | Seam | Sharp Cross | 1 | 0 | 5 |
 | 2025-02-07 | 2 | Right | Defender | Seam | Sharp Cross | 0 | 5 | 7 |
 | 2025-02-07 | 3 | Left | Blocker | Seam | Hard Line | 0 | 1 | 0 |
