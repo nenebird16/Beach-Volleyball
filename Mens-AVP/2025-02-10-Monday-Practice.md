@@ -1,4 +1,5 @@
 # Monday Practice - February 10, 2025
+
 **Athletes:** Nate, John, AJ, Chris
 **Time:** 2 hours
 
@@ -18,12 +19,11 @@
 
 | Round | Attack Side | Visual Cue | Location 1 | Location 2 | Nate | John | AJ | Chris |
 |-------|-------------|------------|------------|------------|------|------|----|----|
-| 1 | Left | Blocker | Seam | Hard Line |  |  |  |  |
-| 2 | Right | Blocker | Seam | Hard Line |  |  |  |  |
-| 3 | Left | Defender | Seam | Sharp Cross |  |  |  |  |
-| 4 | Right | Defender | Deep Angle | Sharp Cross |  |  |  |  |
-| 5 | Left | Live Defense | All Open | All Open |  |  |  |  |
-| 6 | Right | Live Defense | All Open | All Open |  |  |  |  |
+| 1 | Left | Blocker | Seam | Hard Line |4  |0  |0  |  0|
+| 2 | Right | Blocker | Seam | Hard Line |3  |4  |1  |3  |
+| 3 | Left | Blocker | Seam | Sharp Cross |0  |4  |5  |9  |
+| 4 | Right | Blocker | Deep Angle | Sharp Cross |0  |4  |0| 2|
+
 
 ### Scoring System
 **Constraint Rounds (1-4):**
