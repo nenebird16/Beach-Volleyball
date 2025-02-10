@@ -35,7 +35,7 @@ Example: If a player successfully tools the block or finds a kill in a non-desig
 ### Training Parameters
 - Location 1: Always targeting Seam
 - Location 2: Varies between Sharp Cross, Hard Line, and Either Sideline
-- Visual Cues: Progress from Defender → Blocker → Live Blocker
+- Visual Cues: Progress from Blocker → Defender → Live Blocker
 - Attack Sides: Alternating between Left and Right
 
 ### Notes for Future Updates
