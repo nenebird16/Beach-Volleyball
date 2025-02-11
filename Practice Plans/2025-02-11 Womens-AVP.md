@@ -10,57 +10,35 @@
 Focus: Building offensive decision-making through progressive shot combinations
 
 ## Warm-Up (15 min)
-- Matrix Movement with midline tosses
-- Pepper with Shot Calling
-- Partner Setting rhythm work
+- **(1) Awareness Building: Hitting off a box against a live defense** 
 
-## PART 1: Offensive Pairing - Seam/Cut (30 min)
+Players practiced offensive pairings by hitting off a box, with three players forming a defender-blocker combo for digging and warm-up hitting. The offensive player focused on experimenting with pairings using the defensive player’s ability to defend their shots as feedback to see whether their technique is “readable” or deceptive. 
+The defender / blocker used the reps to warm up into full speed hitting.
 
-### Blocker Reaction Round
-*Blocker shows early, hit opposite choice*
-* Jenna - 
-* Lydia - 
-* Ashley - 
 
-### Defender Hunt Round
-*Watch defender position during approach*
-* Jenna - 
-* Lydia - 
-* Ashley - 
+- **(2) Pass -&gt; Set -&gt; Hit: Set -&gt; Hit: Modified hitting lines with visual stimulus & “beer pong” scoring (no defender, focus on accuracy)**
+- This was an awesome way to get them warm and prepped for the competitive portion of practice
 
-### Queen of the Court - Seam/Cut
-*Bank a life by scoring in called zone*
-- Start with 2 lives
-- Must call Seam or Cut before serve
-- Score in called zone = bank an extra life
-- Teams:
-* Jenna/Lydia Lives: 
-* Ashley/Lydia Lives: 
-* Jenna/Ashley Lives: 
+- **(3) Pass -&gt; Set -&gt; Hit: with Live Defender, Offensive Pairing - Deep Angle/Short Line(30 min)**
 
-## PART 2: Offensive Pairing - Deep Angle/Short Line (30 min)
 
-### Blocker Reaction Round
-*Blocker shows early, forces decision*
-* Jenna - 
-* Lydia - 
-* Ashley - 
+   Players practiced hitting with a defender, aiming for specific zones. Scoring system: +2 for hitting designated zones, +1 for kills in court, -1 for errors, or hitting DIRECTLY at the defender. Maximum score of 10 in 5 opportunitie
+### Foam Blocker, Live Defender
+Round 1:
+* Jenna - 3
+* Lydia - 0
+* Ashley - 2
 
-### Defender Hunt Round
-*Defender shows early, can move late*
-* Jenna - 
-* Lydia - 
-* Ashley - 
-
-### Queen of the Court - Deep/Short
-*Bank a life by scoring in called zone*
-- Start with 2 lives
-- Must call Deep Angle or Short Line before serve
-- Score in called zone = bank an extra life
-- Teams:
-* Jenna/Lydia Lives: 
-* Ashley/Lydia Lives: 
-* Jenna/Ashley Lives: 
+  
+ Round 1:
+* Jenna - 5
+* Lydia - 2
+* Ashley - 2
+  
+ Round 3:
+* Jenna - 2
+* Lydia - 6
+* Ashley - 6 
 
 ## Coach's Post-Practice Reflection
 
