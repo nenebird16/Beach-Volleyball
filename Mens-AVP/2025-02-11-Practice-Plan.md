@@ -39,9 +39,9 @@ Chris/John: 11
 Ben/Jake: 7
 
 ### Round 2 Points
-Nate/AJ: _____
-Chris/John: _____
-Ben/Jake: _____:
+Nate/AJ: 3
+Chris/John: 5
+Ben/Jake: 11
 
 ## 3. German Drill (25-30 mins)
 3-point sets, money ball on third point
