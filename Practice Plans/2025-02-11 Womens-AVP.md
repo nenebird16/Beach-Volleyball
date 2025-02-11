@@ -14,14 +14,16 @@ Focus: Building offensive decision-making through progressive shot combinations
 
 ## PART 1: Offensive Pairing - Seam/Cut (30 min)
 
-### Blocker Reaction Round
-*Blocker shows early, hit opposite choice*
-* Jenna - 
-* Lydia - 
-* Ashley - 
 
-### Defender Hunt Round
+
+### Round 1 - Foam Blocker, Live Defender
 *Watch defender position during approach*
+* Jenna - 2
+* Lydia - 0
+* Ashley - 4
+
+### Round 2 - Foam Blocker, Live Defender
+
 * Jenna - 
 * Lydia - 
 * Ashley - 
