@@ -4,6 +4,37 @@
 
 ## Coach's Post-Practice Reflection
 
+### Modified Hitting Lines Format ⭐
+**Setup & Flow**
+- Coach initiates with freeball over net
+- Uses blocker board for variable block stimulus
+- Players rotate through hitting positions
+
+**Progression**
+1. Warm-up Phase (3 reps per player)
+   - Unscored
+   - Focus on form and timing
+
+2. Competitive Phase
+   - Game to 3 points
+   - Point awarded for hitting designated zone
+   - Rebuttal system activates after first point scored
+
+**Rebuttal System ("Beer Pong" Rules)**
+- If Player A hits zone, Player B must respond with zone hit
+- Successful rebuttal continues rally
+- Failed rebuttal = point for Player A
+- Creates extended quality rep sequences when both players are accurate
+
+**Scoring Example:**
+```
+Player A: Hits zone (+1)
+Player B: Must hit zone to stay alive
+- If successful: Rally continues
+- If misses: Player A wins point
+First to 3 points wins round
+```
+
 ### Key Themes & Learning
 1. Offensive Pairing Development
    - Focus on opposite corner targeting (cut shot/high line, baby line/jumbo)
@@ -16,12 +47,7 @@
    - Players used defensive feedback to gauge shot deception
    - Good foundation for understanding readable vs deceptive techniques
 
-2. Modified Hitting Lines
-   - "Beer pong" scoring system worked well for maintaining engagement
-   - Rebuttal format encouraged accuracy and extended quality rep sequences
-   - Block stimulus variation added good decision-making element
-
-3. Live Defense Implementation
+2. Live Defense Implementation
    - Scoring system (+2 zone, +1 kill, -1 error/defender hit) created clear feedback
    - 5 opportunity cap with max 10 points provided good measurement framework
 
