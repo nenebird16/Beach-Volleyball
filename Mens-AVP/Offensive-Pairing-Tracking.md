@@ -9,6 +9,7 @@ Each player gets 5 opportunities per round. Points are awarded differently based
 - +2 points: Kill in designated zone
 - No +1 points available during constraint rounds
 - Maximum score per round: 10 points (5 attempts × 2 points)
+- Optional (+3 points to score line on blocker during the defender rounds)
 
 Example: If a player hits a kill but misses the designated zone, they receive 0 points as constraint rounds focus purely on zone accuracy.
 
