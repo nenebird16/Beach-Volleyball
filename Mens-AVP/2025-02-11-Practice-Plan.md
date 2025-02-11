@@ -27,19 +27,21 @@ John: 0
 Ben: 7
 Jake: 4
 
-### Round 3 Scores (if time)
-Nate: _____
-AJ: _____
-Chris: _____
-John: _____
-Ben: _____
-Jake: _____
 
 ## 2. King of the Court - "Bank a Life" (30-35 mins)
 Games to 11 or 15
 Bank a life with clean cross kills
 
-Winner: _____
+
+### Round 1 Points
+Nate/AJ: 2
+Chris/John: 11
+Ben/Jake: 7
+
+### Round 2 Points
+Nate/AJ: _____
+Chris/John: _____
+Ben/Jake: _____:
 
 ## 3. German Drill (25-30 mins)
 3-point sets, money ball on third point
