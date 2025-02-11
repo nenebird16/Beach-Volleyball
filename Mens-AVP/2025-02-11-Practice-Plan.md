@@ -12,20 +12,20 @@ Scoring:
 - -1: Error
 
 ### Round 1 Scores (5 attempts each)
-Nate: _____
-AJ: _____
-Chris: _____
-John: _____
-Ben: _____
-Jake: _____
+Nate: 1
+AJ: 1
+Chris: 7
+John: 4
+Ben: 4
+Jake: 6
 
 ### Round 2 Scores
-Nate: _____
-AJ: _____
-Chris: _____
-John: _____
-Ben: _____
-Jake: _____
+Nate: 4
+AJ: 2
+Chris: -3
+John: 0
+Ben: 7
+Jake: 4
 
 ### Round 3 Scores (if time)
 Nate: _____
