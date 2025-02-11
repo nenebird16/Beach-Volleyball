@@ -10,9 +10,7 @@
 Focus: Building offensive decision-making through progressive shot combinations
 
 ## Warm-Up (15 min)
-- Matrix Movement with midline tosses
-- Pepper with Shot Calling
-- Partner Setting rhythm work
+- Players on Box , hitting offensive pairings against a defender (exploration)
 
 ## PART 1: Offensive Pairing - Seam/Cut (30 min)
 
