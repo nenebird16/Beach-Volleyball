@@ -1,5 +1,4 @@
 # Monday Practice - February 10, 2025
-
 **Athletes:** Nate, John, AJ, Chris
 **Time:** 2 hours
 
@@ -19,11 +18,12 @@
 
 | Round | Attack Side | Visual Cue | Location 1 | Location 2 | Nate | John | AJ | Chris |
 |-------|-------------|------------|------------|------------|------|------|----|----|
-| 1 | Left | Blocker | Seam | Hard Line |4  |0  |0  |  0|
-| 2 | Right | Blocker | Seam | Hard Line |3  |4  |1  |3  |
-| 3 | Left | Blocker | Seam | Sharp Cross |0  |4  |5  |9  |
-| 4 | Right | Blocker | Deep Angle | Sharp Cross |0  |4  |0| 2|
-
+| 1 | Left | Blocker | Seam | Hard Line |  |  |  |  |
+| 2 | Right | Blocker | Seam | Hard Line |  |  |  |  |
+| 3 | Left | Defender | Seam | Sharp Cross |  |  |  |  |
+| 4 | Right | Defender | Deep Angle | Sharp Cross |  |  |  |  |
+| 5 | Left | Live Defense | All Open | All Open |  |  |  |  |
+| 6 | Right | Live Defense | All Open | All Open |  |  |  |  |
 
 ### Scoring System
 **Constraint Rounds (1-4):**
@@ -48,3 +48,43 @@
 - Each player completes all 5 attempts before switching
 - Order: Nate → John → AJ → Chris
 - Non-hitting players rotate through blocking/defense
+
+## Post Practice Reflection - February 10, 2025
+
+### Overall Session Assessment
+- Challenging practice with mixed results
+- Strong start with board blocker rounds
+- Significant difficulty emerged during defender rounds
+
+### Scoring System Innovation
+During practice, implemented new scoring system:
+- +3 points: Beating blocker down the line
+- +2 points: Beating defender cross-court
+- +1 point: General kills
+
+### Key Insights
+1. **Blocker Containment Strategy**
+   - System effectively incentivizes pinning blocker to line
+   - Opens up offensive opportunities elsewhere
+   - Good framework for strength-based gameplay
+
+2. **Defensive Positioning**
+   - Need to develop better strategies for defending between line and line seam
+   - Potential for cross-court variation of containment game
+
+### Future Implementation Ideas
+1. **Constraint-Based Games**
+   - Develop two distinct games focusing on defensive positioning
+   - Emphasize outside-in defense
+   - Include "hit between the wickets" defensive scenarios
+
+2. **Competition Integration**
+   - Move towards implementing as competitive drilling
+   - Use as preparation for actual match scenarios
+   - Focus on seal/contain line gameplay
+
+### Areas for Development
+1. **Cross-Court Variations**
+   - Explore scoring system for cross-court containment
+   - Consider defensive strategies for low cross hits
+   - Work on block evasion techniques (poke/cut around)
