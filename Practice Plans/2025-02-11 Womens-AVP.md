@@ -24,9 +24,16 @@ Focus: Building offensive decision-making through progressive shot combinations
 
 ### Round 2 - Foam Blocker, Live Defender
 
-* Jenna - 
-* Lydia - 
-* Ashley - 
+* Jenna - 5
+* Lydia - 2
+* Ashley - 1
+
+### Round 2 - Foam Blocker, Live Defender
+
+* Jenna - 2c
+* Lydia - 6
+* Ashley - 6
+
 
 ### Queen of the Court - Seam/Cut
 *Bank a life by scoring in called zone*
